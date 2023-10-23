@@ -1,2 +1,2 @@
-# Skillnox
+# Skillbox
 my Data science study 
